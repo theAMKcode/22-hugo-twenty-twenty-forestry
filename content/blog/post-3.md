@@ -1,5 +1,5 @@
 ---
-title: Managing emotions
+title: Managing Emotions
 date: 2023-01-03T00:00:00+00:00
 image: images/books2.jpg
 author:
