@@ -37,8 +37,8 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
+author = "MTC"
+description = "who sees this?"
 [params.banner]
 heading = "Join a community of learners from around the world and get support from our experienced instructors."
 image = "images/2020-landscape-1-2.png"
