@@ -43,7 +43,7 @@ description = "who sees this?"
 heading = "Join a community of learners from around the world and get support from our experienced instructors."
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "Choose from a variety of flexible scheduling options to fit your learning needs and schedule."
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
