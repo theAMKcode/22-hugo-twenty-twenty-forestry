@@ -4,8 +4,7 @@ date: 2023-01-03T00:00:00+00:00
 image: images/books3.jpg
 author:
 - Amin
-categories:
-- operations
+categories: []
 tage:
 - tags
 description: This is meta descriptions
