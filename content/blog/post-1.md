@@ -1,5 +1,5 @@
 ---
-title: Changing negative thought patterns
+title: Changing Negative Thought Patterns
 date: 2023-01-03T14:04:00+00:00
 image: images/books.jpg
 author:
